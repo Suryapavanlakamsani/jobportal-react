@@ -19,7 +19,6 @@ function App() {
   return (
     <div className="App">
       {/* Wrap your app with AuthProvider */}
-      <Home/>
       <Router>
         <Routes>
           <Route exact path="/" element={<Home />} />

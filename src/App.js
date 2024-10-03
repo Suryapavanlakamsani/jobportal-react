@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Home from "./pages/Home";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import UserLogin from "./users/UserLogin";
 import AdminLogin from "./admin/AdminLogin";
 import UserHome from "./users/UserHome";

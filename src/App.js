@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
       {/* Wrap your app with AuthProvider */}
-      <Router>
+      <Router basename="/jobportal-react">
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/loginuser" element={<UserLogin />} />

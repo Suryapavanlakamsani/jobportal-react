@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/jobportal-react/static/css/main.fcac670c.css",
+    "main.js": "/jobportal-react/static/js/main.5b455c63.js",
+    "static/js/453.9c7615ba.chunk.js": "/jobportal-react/static/js/453.9c7615ba.chunk.js",
+    "static/media/applyjob.jpg": "/jobportal-react/static/media/applyjob.daffee13f010b22dd758.jpg",
+    "static/media/addjob.jpg": "/jobportal-react/static/media/addjob.1828728c5579b77836e6.jpg",
+    "static/media/recruiterhome.jpg": "/jobportal-react/static/media/recruiterhome.c456aafdb79819d92fb8.jpg",
+    "static/media/userhome.jpg": "/jobportal-react/static/media/userhome.8913e69918615251011a.jpg",
+    "static/media/home.jpg": "/jobportal-react/static/media/home.579e422ed89956b37687.jpg",
+    "static/media/fa-solid-900.ttf": "/jobportal-react/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/viewjob.jpg": "/jobportal-react/static/media/viewjob.a8d0ef343e4af9758066.jpg",
+    "static/media/jobcard.jpg": "/jobportal-react/static/media/jobcard.d0d723795492c1b6f295.jpg",
+    "static/media/fa-brands-400.ttf": "/jobportal-react/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/jobportal-react/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/jobportal-react/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/jobportal-react/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/recruiterLogin.png": "/jobportal-react/static/media/recruiterLogin.484cc32eb29f00763e1e.png",
+    "static/media/fa-regular-400.woff2": "/jobportal-react/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/jobportal-react/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/jobportal-react/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/jobportal-react/index.html",
+    "main.fcac670c.css.map": "/jobportal-react/static/css/main.fcac670c.css.map",
+    "main.5b455c63.js.map": "/jobportal-react/static/js/main.5b455c63.js.map",
+    "453.9c7615ba.chunk.js.map": "/jobportal-react/static/js/453.9c7615ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcac670c.css",
+    "static/js/main.5b455c63.js"
+  ]
+}
